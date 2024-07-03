@@ -1,7 +1,5 @@
 package task1codsoft;
-
 import java.util.Scanner;
-
 public class Task1CodSoft {
 
     public static void main(String[] args) {
